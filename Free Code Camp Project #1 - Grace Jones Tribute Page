@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Free Code Camp Tribute Page</title>
+    <meta charset=”utf-8 ">
+   <meta name="FCC Project " content="First Code Camp Project ">
+ <!-- bootstrap -->
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+ <!-- end bootstrap -->
+ <!-- font style -->
+  <link href='https://fonts.googleapis.com/css?family=Ubuntu:300' rel='stylesheet' type='text/css'>
+ <!-- end font style -->
+ <!-- css style sheet -->
+ <link rel="stylesheet" href="style.css" />
+ <!-- end css style sheet -->
+</head>
+<div class="container ">
+  <!-- divider -->
+  <hr></hr>
+  <!-- end divider -->
+  <h1 class="text-center title ">Grace Jones</h1>
+  <hr></hr>
+  <!-- main image -->
+  <img class="img-responsive " src="http://un-ruly.com/wp-content/uploads/2014/08/grace_jones_hair_story_0.jpg ">
+  <!-- end main image -->
+  <br>
+  <h3>Bio</h3>
+  <p> Nobody comes close to pop culture’s most outrageous cult figure Grace Jones. Over her 40-or-so-year career, she has taken on many guises. From spending the late 70s as a musical dominatrix at Studio 54, to playing muse for the likes of Jean-Paul Goude
+    and Andy Warhol, taking acid with the Hells’ Angels, slapping chat show hosts live on TV and setting Dolph Lundgren’ trousers on fire, Jones was the model, singer and actress that eschewed all expectations to become an icon of counter-cultural rebellion.
+    Here is a quick guide to the eternal rebel of our times.
+
+    <div class="row ">
+      <div class="col-sm-12 ">
+        <h3>Fashion</h3>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-sm-8 ">
+        <p>Grace was born May 19, 1948 in Spanish Town, St Catherine - Jamaica, and was raised in Syracuse, New York, where she later studied Spanish at Syracuse University. Halfway through college, she was approached by a drama professor who proposed that
+          she come work with him in a play he was putting on in Philadelphia, she accepted. She was 18 when she moved back to New York, and signed on as a model with Wilhelmina Modeling agency. But since her looks were not successfully received, she moved
+          to Paris, France, where her androgynous, bold, dark-skinned appearance fostered her potential. She modeled for Yves Saint-Laurent, Claude Montana, Kenzo Takada, Helmut Newton, Guy Bourdin, Hans Feurer and Azzedine Alaïa, and she appeared on
+          the covers of "Elle ", "Vogue ", and "Der Stern ".
+        </p>
+        <h3> Music</h3>
+        <p>Jones' statuesque and flamboyant look proved to be a hit in the New York City nightclub scene, which led to a recording contract with Island Records in 1977. While her disco-based albums 1977's Portfolio, 1978's Fame, and 1979's Muse failed to
+          break the singer commercially, Jones soon amassed a substantial following in the disco scnene with her sexually charged live show, leading to her title at the time of "Queen of the Discos. "
+
+          <p>But with the dawn of the '80s came a massive anti-disco movement across the U.S., leading to Jones focusing on more new wave and experimental-based work, resulting in two of her best-known and strongest releases -- 1980's Warm Leatherette and
+            1981's Nightclubbing -- both produced by the noted reggae team of Sly & Robbie (the latter release spawned one of Jones' biggest hits, "Pull Up to the Bumper, " as well as covers of Iggy Pop's "Nightclubbing " and the Police's "Demolition
+    Man ").
+            It was also around this time that Jones changed her look to suit the times by replacing her S&M look of the '70s with a detached, androgynous image. Jones' sixth solo release overall, Living My Life, followed in 1982.
+      </div>
+      <!-- second image-->
+      <div class="col-sm-4 ">
+        <img src="http://www.musicchartheaven.com/ArtistsG/gracelivinglink.png " class="img-responsive ">
+      </div>
+    </div>
+    <!-- end second image-->
+    <div class="row ">
+      <div class="col-sm-12 ">
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-sm-8 ">
+        <p>
+          In 1985, Jones enlisted super-producer Trevor Horn (Frankie Goes to Hollywood, Yes) to oversee 1985's Slave to the Rhythm, which turned out to be a somewhat autobiographical work (the same year, a ten-track compilation was issued as well, Island Life).
+          Jones' penchant for working with big-name producers continued on 1986's Inside Story; with production chores handled by Chic's Nile Rodgers, the album spawned one of Jones' last successful singles, "I 'm Not Perfect (But I'm Perfect for You). "
+
+          <p>After 1989's Bulletproof Heart, Jones seemed to turn her back on her recording career (although 1993 saw the release of a new single, "Sex Drive "), as she focused primarily on movies. She returned to music in 2008 with Hurricane, an album featuring
+            contributions from Brian Eno, Wendy & Lisa, Tony Allen, and others. In 2011 the album was re-released with a bonus disc featuring dubs created by producer Ivor Guest.
+          </p>
+          <h3>Film</h3>
+          <p>
+
+            Her debut film appearance was in Gordon's War (1973), she played the role of Mary, a drug smuggler. Grace started to work prolifically in the 1980s and became a successful American actress with her roles of Zula the amazonian in Conan the Destroyer (1984),
+            and May Day in the 14th James Bond film A View to a Kill (1985). Other notable roles include: Katrina, the Egyptian queen vampire in Vamp (1986), Helen Strangé, the forceful and sex hungry model in the Eddie Murphy film, Boomerang (1992),
+            and Christoph/Christine, an intersexed circus performer in the made-for-television film, Wolf Girl (2001).
+      </div>
+      <!-- spotify - embed-->
+      <div class="col-sm-4 ">
+        <style>
+          .embed-container { position: relative; padding-bottom: 56.25%; height: 380px; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 380px; }
+        </style>
+        <div class='embed-container'><iframe src='https://embed.spotify.com/?uri=spotify:album:3EEiy1rcaQwPtmil2TxIeV' frameborder='0' allowtransparency='true'></iframe></div>
+      </div>
+    </div>
+    <!-- end spotify embed-->
+    <hr></hr>
+    <!-- footer -->
+    <div class="row footer ">
+      <div class="col-sm-12 ">
+        Tribute page made by <a href="https://twitter.com/will_ruz " target="_blank ">William Ruzvidzo</a>
+
+        <br>Sources: <a href="http://www.imdb.com/name/nm0005063/bio " target="_blank ">IMDb</a>, <a href="http://www.dazeddigital.com/music/article/26964/1/the-da-zed-guide-to-grace-jones " target="_blank ">Dazed</a>, <a href="http://www.allmusic.com/artist/grace-jones-mn0000161920/biography "
+          target="_blank ">AllMusic</a>
+      </div>
+    </div>
+    <!-- end footer-->
+    </html>
